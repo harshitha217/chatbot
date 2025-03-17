@@ -1,1 +1,1 @@
-# chatbot
+This project is a chatbot built using Python that can understand and respond to user messages. It uses TensorFlow to train a model on specific intents (like greetings or questions), which are stored in a JSON file. The chatbot uses NLTK to break down and process words in the user's message. Pickle is used to save and load important information like words and categories. The trained model helps the chatbot figure out what the user is asking and give a relevant response, such as greeting them or answering questions.
